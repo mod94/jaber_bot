@@ -8,7 +8,7 @@ import os
 
 config = { #имя пользователя и пароль для подключения
 'jid': 'job-rdp-shop@xmpp.jp',
-'pass': 'M0de$t201809@'
+'pass': 'passss'
 }
 
 #def start_menu(user,text):
